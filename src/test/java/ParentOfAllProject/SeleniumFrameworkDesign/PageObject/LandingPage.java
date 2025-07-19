@@ -55,7 +55,7 @@ public class LandingPage extends ReusableComponent {
 			//Thread.sleep(1500); 
 			return errorMsg.getText();
 		}
-		
+		//This is to login the application
 		public void loginApplication(String email, String password) 
 		{
 			

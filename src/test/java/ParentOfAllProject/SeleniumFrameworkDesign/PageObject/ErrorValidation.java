@@ -25,7 +25,7 @@ public class ErrorValidation extends InitialzeDriver {
 			
 		 String productName="ZARA COAT 3";
 		Assert.assertEquals("Incorrect email or password.", lp.getErrorMessage());
-		System.out.println(lp.getErrorMessage());
+		System.out.println(lp.getErrorMessage()+"  ");
 		 
 	}
 

@@ -64,9 +64,6 @@ public class StandAloneTest {
 		 		}
 		 	}
 		 
-		 //country.stream().filter(s->s.getText().equalsIgnoreCase("India"))
-		 
-		 
 		 
 	}
 
